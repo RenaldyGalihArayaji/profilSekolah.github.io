@@ -1,0 +1,115 @@
+body {
+  background: #f7f9f8;
+}
+/* Navbar */
+
+.navbar-brand {
+  font-family: "Viga", sans-serif;
+  font-size: 18px;
+}
+
+.navbar-brand span {
+  font-size: 16px;
+}
+
+/* Banner */
+.banner {
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url(../../img/bg1.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 105vh;
+}
+
+.banner-text {
+  padding-top: 290px;
+  font-family: "Viga", sans-serif;
+  color: white;
+}
+
+.data {
+  box-shadow: 0 3px 20px rgba(0, 0, 0, 0.5);
+  margin-top: -50px;
+  background-color: #f7f9f8;
+}
+
+.card-body-icon {
+  position: absolute;
+  z-index: 0;
+  top: 110px;
+  right: 50px;
+  opacity: 0.4;
+  font-size: 90px;
+}
+
+.galery-img {
+  width: 100%;
+}
+
+#galery .row > * {
+  padding: 0;
+}
+
+.card-conten:hover {
+  border: 1px solid rgb(18, 126, 250);
+}
+
+.judul {
+  font-family: "Algerian";
+}
+
+#contact {
+  background-color: rgb(158, 170, 170);
+}
+
+#footer {
+  background-color: rgb(59, 53, 53);
+  height: 30vh;
+}
+.organ:hover {
+  border: 1px solid rgb(18, 126, 250);
+}
+
+#body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/12.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+#teknik {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/skl.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.card-teknik {
+  background: #f7f9f8;
+}
+#login {
+  background: rgb(67, 204, 238);
+}
+.vertikall {
+  background: navy;
+  height: 100vh;
+  text-decoration: none;
+}
+
+/* DESKTOP VERSION */
+@media (min-width: 992px) {
+  .nav-link {
+    text-transform: uppercase;
+    font-size: 15px;
+  }
+  .nav-link:hover::after {
+    content: "";
+    display: block;
+    border-bottom: 3px solid rgb(19, 29, 182);
+    width: 50%;
+    margin: auto;
+    padding-bottom: 5px;
+    margin-bottom: -8px;
+  }
+}
+@media (max-width: 1200px) {
+  .navbar-brand {
+    display: none;
+  }
+}
