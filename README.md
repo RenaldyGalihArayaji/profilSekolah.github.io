@@ -1,2 +1,2 @@
-# profil-Sekolah
-![alt text](https://github.com/RenaldyGalihArayaji/profilSekolah.github.io/issues/1#issue-2665805083?raw=true)
+TAMPILAN WEBISTE
+![a (1)](https://github.com/user-attachments/assets/889eeba2-aa2b-4eac-bf87-9c77a723c9a0)
