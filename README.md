@@ -1,2 +1,2 @@
 # profil-Sekolah
-![Uploading screencapture-renaldygaliharayaji-github-io-profilSekolah-github-io-2024-11-17-19_09_59.png…]()
+![alt text](https://github.com/RenaldyGalihArayaji/profilSekolah.github.io/issues/1#issue-2665805083?raw=true)
